@@ -12,6 +12,46 @@
             "sets": [
 
                 {
+                    "name": "Vitamine",
+                    "author": "radston12",
+                    "vocabulary": [
+                        ["Vitamin A (Löslichkeit?) ",                " Retinol ",                                " fettlöslich"],
+                        ["Vitamin A (Enthalten in?) ",               " Retinol ",                                " in Milch, Leber, Eigelb, Tunfisch <br>Als beta-Cortin in Karotten Tomaten, Paprika, Kopfsalat"],
+                        ["Vitamin A (Wichtig für?) ",                " Retinol ",                                " wichtig für Knochen, Haut, Zähne und zum Sehen"],
+                        ["Vitamin A (Bildung / Formen?) ",           " Retinol ",                                "durch die Spaltung von beta-Carotin ; aus Retiniol wird Retinal (Farbstoff zum Sehen)"],
+                        ["Vitamin A (Mangelerscheinung?) ",          " Retiniol ",                               "Nachtblindheit, Augenschäden, Wachstumsstörungen"],
+                        ["Vitamin D (Löslichkeit?) ",                " Calciol, Calciferol ",                    " fettlöslich"],
+                        ["Vitamin D (Bildet sich durch?) ",          " Calciol, Calciferol ",                    " Im Körper durch Sonnenlicht und Derivat des Cholesterin ; Wichtig: Eigenproduktion reicht nicht alleine aus!"],
+                        ["Vitamin D (Enthalten in?) ",               " Calciol, Calciferol ",                    "  in Lebertran, fettreichen Seefischen z. B. Hering, Bückling, Milch, Eigelb"],
+                        ["Vitamin D (Steuert was?) ",                " Calciol, Calciferol ",                    "  Calcium-Stoffwechsel; fördert Aufnahme von Calcium in die Knochen"],
+                        ["Vitamin D (Mangelerscheinung?) ",          " Calciol, Calciferol ",                    " Rachitis (bei Kindern), Osteomalazie (bei Erwachsenen) -> Verformungen von Knochen v.a. Brustbein, Schädel und Wirbelsäule, da Mineralisation der Knochen gestört; (tritt vor allem auf, wenn Haut nicht genügend UV-Licht bekommt und wenn das Vitamin in der Nahrung fehlt)"],
+                        ["Vitamin E (Löslichkeit?) ",                " Tocopherol ",                             " fettlöslich"],
+                        ["Vitamin E (Enthalten in?) ",               " Tocopherol ",                             " Weizenkeim-, Sonnenblumen- und Olivenöl, Butter, Vollkornprodukte"],
+                        ["Vitamin E (Wichtig für?) ",                " Tocopherol ",                             " bildet wirksamen Oxidationsschutz; stärkt Immunsystem, dient der Zellerneuerung"],
+                        ["Vitamin E (Mangelerscheinungen?) ",        " Tocopherol ",                             " Muskelschwäche, Fehlgeburt"],
+                        ["Vitamin K (Löslichkeit?) ",                " Phyllochinon ",                           " fettlöslich"],
+                        ["Vitamin K (Enthalten in?) ",               " Phyllochinon ",                           " Grünpflanzen (Salate, Kohlsorten, Schnittlauch), aber auch in Milch, Leber und Fleisch"],
+                        ["Vitamin K (Wichtig für?) ",                " Phyllochinon ",                           " Blutbildung und Blutgerinnung notwendig; steuert Calciumhaushalt"],
+                        ["Vitamin K (Mangelerscheinungen?) ",        " Phyllochinon ",                           " verzögerte Blutgerinnung, Hirnblutung, Osteoporose"],
+                        ["Vitamin B2 (Löslichkeit?) ",               " Riboflavin ",                             " wasserlöslich"],
+                        ["Vitamin B2 (Enthalten in?) ",              " Riboflavin ",                             " Schweinefleisch, Blattgemüse, Vollkornprodukten"],
+                        ["Vitamin B2 (Vergangenheit?) ",             " Riboflavin ",                             " wurde 1932 aus Hefe isoliert; dient als Baustein der prosthetischen Gruppe Flavin-Adenin-Dinucleotid (FAD), welche der Wasserstoffübertragung dient."],
+                        ["Vitamin B2 (Mangelerscheinung?) ",         " Riboflavin ",                             " Es ist keine spezifische Vitaminmangel-Krankheit bekannt."],
+                        ["Vitamin B3 (Löslichkeit?) ",               " Nicotinat ",                              " wasserlöslich"],
+                        ["Vitamin B3 (Enthalten in?) ",              " Nicotinat ",                              " magerem Fleisch, Fisch, Hefe, Leber, Kaffeebohnen (1 Tasse 1-2 mg)"],
+                        ["Vitamin B3 (Wichtig für?) ",               " Nicotinat ",                              " Nicotinat und Nicotinamid werden für die Biosynthese der Coenzyme Nicotinamid-Adenin-Dinucleotid (NAD+) und Nicotinamid-Adenin-Dinucleotid-Phosphat (NADP+) benötigt, welche der Wasserstoffübertragung im Stoffwechsel dienen "],
+                        ["Vitamin B3 (Mangelerscheinungen?) ",       " Nicotinat ",                              " Hautschäden (Pellagra = raue Haut), Verdauungsstörungen"],
+                        ["Vitamin B9 (Löslichkeit?) ",               " Folsäure ",                               " wasserlöslich"],
+                        ["Vitamin B9 (Enthalten in?) ",              " Folsäure ",                               " diversem Gemüse, wie z. B. Bohnen, Spinat oder Tomaten"],
+                        ["Vitamin B9 (Mangelerscheinungen?) ",       " Folsäure ",                               " Veränderungen des Blutbildes, Fehlbildungen bei Neuge-borenen "],
+                        ["Vitamin C (Löslichkeit?) ",                " Ascorbinsäure ",                          " wasserlöslich"],
+                        ["Vitamin C (Enthalten in?) ",               " Ascorbinsäure ",                          " Kartoffel, Gemüse und Obst "],
+                        ["Vitamin C (Wer benötigt es?) ",            " Ascorbinsäure ",                          " nur Menschen, Affen und Meerschweinchen, da es den letzten Schritt der Umwandlung von Glucose katalysiert. "],
+                        ["Vitamin C (Wichtig für?) ",                " Ascorbinsäure ",                          " wichtig für Aufbau des Bindegewebes <br><br>für die Biosynthese von Noradrenalin und Adrenalin <br> <br> fördert die Eisenresorption im Darm <br> <br> hemmt die Nitrosaminbildung aus Nitrit und Aminen im Magen"],
+                        ["Vitamin C (Mangelerscheinungen?) ",        " Ascorbinsäure ",                          " Skorbut -> es kommt zu Schleimhautblutungen, Blutungen in die Muskulatur zuerst an beanspruchten Stellen und Zahnausfall"]
+                    ]
+                },
+                {
                     "name": "The FINAL (SA Stoff)",
                     "author": "radston12",
                     "vocabulary": [
